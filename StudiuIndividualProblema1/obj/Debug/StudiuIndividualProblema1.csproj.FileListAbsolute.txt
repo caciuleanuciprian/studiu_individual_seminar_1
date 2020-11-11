@@ -1,0 +1,6 @@
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema1\StudiuIndividualProblema1\bin\Debug\StudiuIndividualProblema1.exe.config
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema1\StudiuIndividualProblema1\bin\Debug\StudiuIndividualProblema1.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema1\StudiuIndividualProblema1\bin\Debug\StudiuIndividualProblema1.pdb
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema1\StudiuIndividualProblema1\obj\Debug\StudiuIndividualProblema1.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema1\StudiuIndividualProblema1\obj\Debug\StudiuIndividualProblema1.pdb
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema1\StudiuIndividualProblema1\obj\Debug\StudiuIndividualProblema1.csprojAssemblyReference.cache
